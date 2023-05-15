@@ -1,10 +1,9 @@
 # Altair Junior
 
-## Desenvolvedor(a) de Software
+## Desenvolvedor(a) de Software Jr 3
 
-[Seu Site Pessoal](https://seusitepessoal.com)
 [LinkedIn](https://www.linkedin.com/in/altairjuniordev/)
-[Twitter](https://twitter.com/seuperfil)
+
 
 ### Sobre Mim
 
@@ -13,14 +12,14 @@ Sou ligado a tecnologia desde muito cedo e após conhecer o universo da programa
 
 ### Principais Linguagens e Tecnologias
 
-- Node.js
-- React.js
-- MySQL
-- MariaDB
-- MongoDB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 ### Linguagens e Tecnologias Secundárias
 
-- ASP.NET Core
-- Ruby on Rails
-- Java
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=.net&logoColor=white&style=flat-square)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
