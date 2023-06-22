@@ -12,6 +12,7 @@ Sou ligado a tecnologia desde muito cedo e após conhecer o universo da programa
 
 ### Principais Linguagens e Tecnologias
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
