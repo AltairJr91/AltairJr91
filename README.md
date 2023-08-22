@@ -7,8 +7,19 @@
 
 ### Sobre Mim
 
-Sou ligado a tecnologia desde muito cedo e após conhecer o universo da programação iniciei a faculdade de Analise e desenvolvimento de sistemas. Onde comecei por esse mundo do código.
- Trabalho de maneira clara e objetiva na hora de codar , utilizando os princípios do Clean Code. Tento cada vez mais me aprofundar em conhecimento e novas tecnologias para facilitar esse processo.
+Tecnólogo em programação com ênfase em desenvolvimento web e vasta experiência em desenvolvimento backend com Node.js. Especializado no segmento de monitoramento IoT, onde desempenhei um papel fundamental na resolução de bugs e tive uma curva de aprendizado acelerada em um ambiente com poucos desenvolvedores.
+
+Minhas principais habilidades incluem:
+
+-Desenvolvimento em Node.js com ampla experiência em resolução de problemas e otimização de código.
+-Conhecimento sólido em React.js para criação de interfaces interativas e responsivas.
+-Experiência em bancos de dados MariaDB, PostgreSQL e MongoDB, incluindo modelagem e consultas 
+ eficientes.
+-Familiaridade com ferramentas de testes, como Jest, para garantir a qualidade do código.
+-Experiência em Ruby on Rails para desenvolvimento web.
+-Conhecimento em Docker para facilitar a implantação e o gerenciamento de aplicativos.
+-Utilização de metodologias DevOps para integração contínua e implantação automatizada utilizando AWS e servidores Linux.
+-Proficiente em ferramentas de front-end como Tailwind e Bootstrap.
 
 ### Principais Linguagens e Tecnologias
 
