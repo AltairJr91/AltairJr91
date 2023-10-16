@@ -23,8 +23,7 @@ Minhas principais habilidades incluem:
 
 -Docker com compose e Kubernetes.
 
-
--DevOps com Jenkis, Ansible e Terraform, CI/CD utilizando AWS e servidores Linux.
+-DevOps com Jenkis e Terraform, CI/CD utilizando AWS e servidores Linux.
 
 
 ### Principais Linguagens e Tecnologias
