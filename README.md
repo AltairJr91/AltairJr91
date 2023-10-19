@@ -1,6 +1,6 @@
 # Altair Junior
 
-## Desenvolvedor(a) de Software
+## Desenvolvedor de Software
 
 [LinkedIn](https://www.linkedin.com/in/altairjuniordev/)
 
