@@ -36,9 +36,5 @@ Minhas principais habilidades incluem:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-
-### Linguagens e Tecnologias Secundárias
-
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=.net&logoColor=white&style=flat-square)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby&logoColor=white&style=flat-square)
 
