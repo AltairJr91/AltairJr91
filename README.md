@@ -7,23 +7,10 @@
 
 ### Sobre Mim
 
-Tecnólogo em programação com ênfase em desenvolvimento web com experiência em desenvolvimento backend com Node.js, TypeScript, SQL , Java e devOps com Docker, jenkins, kubernetes em ambiente AWS.
+Desenvolvedor Full Stack Atuando desde 2021 no mercado e com experiencia em linguagens como: Java, C#(Asp.NET), Node, TypeScript, NestJs, React, desenvolvimento mobile, SQL e mongoDB.
+Experiência em projetos IoT e de automação industrial, comunicação via RabbitMQ e MQTT.
+Produtos Cliente-Servidor, Offline-First e Web.
 
-Minhas principais habilidades incluem:
-
--Desenvolvimento em Node.js com TypeScript e uso de bibliotecas como Express, typeORM , Prisma. ampla experiência em resolução de problemas e otimização de código.
-
--React.js e Angular para criação de interfaces interativas e responsivas.
-
--Experiência em bancos de dados SQL e noSQL.
-
--Jest e jUnit para testes 
-
--Experiência em Java com Spring, Hibernate, JPA.
-
--Docker com compose e Kubernetes.
-
--DevOps com Jenkis e Terraform, CI/CD utilizando AWS e servidores Linux.
 
 
 ### Principais Linguagens e Tecnologias
